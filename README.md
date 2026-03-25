@@ -105,7 +105,7 @@ MongoDB • Supabase • Git • AI APIs
   <a href="mailto:ranaammarkhan39@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ammar-ahmad-540002399/" target="_blank">
+  <a href="www.linkedin.com/in/ranaammarahmad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_iam.not_ammar" target="_blank">
