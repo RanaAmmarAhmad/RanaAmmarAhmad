@@ -13,7 +13,7 @@ So I built something better.
 </a>
 </p>
 
----
+<br/>
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
@@ -25,7 +25,7 @@ So I built something better.
 * I like systems that are simple, scalable, and actually useful
 * If something wastes time or creates risk, I usually try to fix it
 
----
+<br/>
 
 ## 🚀 What I've Built
 
@@ -33,53 +33,53 @@ So I built something better.
 
 A platform designed for freelancers and creators who need to **share work without losing control of it**
 
-→ Share files without downloads
-→ Prevent asset theft before payment
-→ Secure preview-based delivery workflow
-→ Built for real creator-client scenarios
+• Share files without downloads
+• Prevent asset theft before payment
+• Secure preview-based delivery workflow
+• Built for real creator-client scenarios
 
----
+<br/>
 
 ### 🛡️ Job Scam Detection Platform (Pakistan)
 
 A practical system that detects fake job listings using patterns common in local scams
 
-→ Risk scoring system (0–100)
-→ Detects WhatsApp-number traps & registration-fee scams
-→ Understands Roman Urdu scam phrasing
-→ Designed specifically for real Pakistan job-market risks
+• Risk scoring system (0–100)
+• Detects WhatsApp-number traps & registration-fee scams
+• Understands Roman Urdu scam phrasing
+• Designed specifically for real Pakistan job-market risks
 
----
+<br/>
 
 ### 🤖 LastLapAI — AI Study Platform
 
 Built for students preparing under pressure
 
-→ AI-assisted last-minute revision workflows
-→ Smart test-prep structure
-→ Designed for speed and clarity, not distraction
+• AI-assisted last-minute revision workflows
+• Smart test-prep structure
+• Designed for speed and clarity, not distraction
 
----
+<br/>
 
 ### 💸 NafaVest (In Progress)
 
 Building infrastructure for a scalable crypto-based earning platform
 
-→ Backend-focused architecture
-→ Automation-ready structure
-→ Designed for real deployment scenarios
+• Backend-focused architecture
+• Automation-ready structure
+• Designed for real deployment scenarios
 
----
+<br/>
 
 ## 🧠 What I Like Building
 
-* Full-stack web platforms
-* AI-assisted tools that actually help users
-* Automation systems that remove repetitive work
-* Clean interfaces people understand immediately
-* MVPs that can grow into real products
+• Full-stack web platforms
+• AI-assisted tools that actually help users
+• Automation systems that remove repetitive work
+• Clean interfaces people understand immediately
+• MVPs that can grow into real products
 
----
+<br/>
 
 ## ⚙️ Tech Stack
 
@@ -95,18 +95,18 @@ Node.js • Express • REST APIs • Flask
 **Database & Tools**
 MongoDB • Supabase • Git • AI APIs
 
----
+<br/>
 
 ## 🧪 Current Focus
 
 Right now I'm working on:
 
-* smarter AI tools (not wrappers)
-* secure digital delivery systems
-* automation-heavy workflows
-* shipping ideas faster as usable products
+• smarter AI tools (not wrappers)
+• secure digital delivery systems
+• automation-heavy workflows
+• shipping ideas faster as usable products
 
----
+<br/>
 
 ## 🌐 Connect
 
@@ -122,7 +122,7 @@ Right now I'm working on:
   </a>
 </p>
 
----
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
