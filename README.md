@@ -1,9 +1,9 @@
 <h1 align="center">Ammar Ahmad</h1>
-<h3 align="center">Full Stack Developer • Tool Builder • Idea → Product</h3>
+<h3 align="center">I build tools that solve real problems.</h3>
 
 <p align="center">
-I turn ideas into working tools.<br/>
-Most of what I build starts with a real problem—and ends as something people can actually use.
+Most of my projects start because something was broken, slow, unsafe, or annoying.<br/>
+So I built something better.
 </p>
 
 <p align="center">
@@ -19,64 +19,65 @@ Most of what I build starts with a real problem—and ends as something people c
 
 ## ⚡ About Me
 
-* I build tools that make life easier
-* Constantly exploring new ideas and turning them into products
-* Focused on **real-world solutions**, not just projects
-* I like systems that are simple, useful, and scalable
-* If I face a problem… I usually end up building something for it
+* I turn ideas into working products
+* I prefer solving real-world problems over cloning tutorials
+* I build fast, test fast, improve fast
+* I like systems that are simple, scalable, and actually useful
+* If something wastes time or creates risk, I usually try to fix it
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I've Built
 
-### 🛡️ PreviewShield – Secure File Preview Platform
+### 🛡️ PreviewShield — Secure File Preview Platform
 
-Next.js-based secure preview system designed for freelancers, agencies, and digital sellers
+A platform designed for freelancers and creators who need to **share work without losing control of it**
 
-→ Share files without allowing downloads
-→ Controlled preview access with protection layers
-→ Designed to prevent asset theft before payment
-→ Clean interface for professional client delivery
-→ Built for real-world creator workflows
+→ Share files without downloads
+→ Prevent asset theft before payment
+→ Secure preview-based delivery workflow
+→ Built for real creator-client scenarios
 
 ---
 
 ### 🛡️ Job Scam Detection Platform (Pakistan)
 
-MERN + Python (Flask microservice)
-Detects fake job posts using real-world scam patterns (WhatsApp numbers, “registration fee”, Roman Urdu phrases)
+A practical system that detects fake job listings using patterns common in local scams
 
 → Risk scoring system (0–100)
-→ Explainable flags (not just AI guesses)
-→ Built for real-world use in Pakistan
+→ Detects WhatsApp-number traps & registration-fee scams
+→ Understands Roman Urdu scam phrasing
+→ Designed specifically for real Pakistan job-market risks
 
 ---
 
-### 🤖 LastLapAI – AI Study Platform
+### 🤖 LastLapAI — AI Study Platform
 
-Full-stack AI tool for last-minute exam prep
+Built for students preparing under pressure
 
-→ AI-assisted learning system
-→ Test-taking + smart workflows
-→ Designed for speed and efficiency
+→ AI-assisted last-minute revision workflows
+→ Smart test-prep structure
+→ Designed for speed and clarity, not distraction
 
 ---
 
 ### 💸 NafaVest (In Progress)
 
-Crypto-based earning platform
+Building infrastructure for a scalable crypto-based earning platform
 
-→ Backend logic + scalable structure
-→ Designed for real-world deployment
+→ Backend-focused architecture
+→ Automation-ready structure
+→ Designed for real deployment scenarios
 
 ---
 
-## 🧠 What I Build
+## 🧠 What I Like Building
 
-* Full-stack web apps (React + Node)
-* AI-powered tools & automation systems
-* Practical utilities that solve real problems
-* Clean, user-focused interfaces
+* Full-stack web platforms
+* AI-assisted tools that actually help users
+* Automation systems that remove repetitive work
+* Clean interfaces people understand immediately
+* MVPs that can grow into real products
 
 ---
 
@@ -91,17 +92,19 @@ React • Next.js • HTML • CSS
 **Backend**
 Node.js • Express • REST APIs • Flask
 
-**Other**
+**Database & Tools**
 MongoDB • Supabase • Git • AI APIs
 
 ---
 
 ## 🧪 Current Focus
 
-* Building smarter AI tools (not just wrappers)
-* Automation systems that save time
-* Turning ideas into MVPs quickly
-* Creating tools that explain their output
+Right now I'm working on:
+
+* smarter AI tools (not wrappers)
+* secure digital delivery systems
+* automation-heavy workflows
+* shipping ideas faster as usable products
 
 ---
 
@@ -123,5 +126,5 @@ MongoDB • Supabase • Git • AI APIs
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <p><b>I build. I experiment. I ship.</b></p>
+  <p><b>I build. I test. I improve. I ship.</b></p>
 </div>
