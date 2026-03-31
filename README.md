@@ -17,26 +17,7 @@ Most of what I build starts with a real problem—and ends as something people c
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-<h1 align="center">Ammar Ahmad</h1>
-<h3 align="center">Full Stack Developer • Tool Builder • Idea → Product</h3>
-
-<p align="center">
-I turn ideas into working tools.<br/>
-Most of what I build starts with a real problem—and ends as something people can actually use.
-</p>
-
-<p align="center">
-<b>Portfolio:</b> 
-<a href="http://ammarkhanportfolio.netlify.app/" target="_blank">
-✨ ammarkhanportfolio.netlify.app ✨
-</a>
-</p>
-
----
-
-<img align="right" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-## About Me
+## ⚡ About Me
 
 * I build tools that make life easier
 * Constantly exploring new ideas and turning them into products
@@ -46,7 +27,7 @@ Most of what I build starts with a real problem—and ends as something people c
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🛡️ PreviewShield – Secure File Preview Platform
 
@@ -115,7 +96,7 @@ MongoDB • Supabase • Git • AI APIs
 
 ---
 
-## Current Focus
+## 🧪 Current Focus
 
 * Building smarter AI tools (not just wrappers)
 * Automation systems that save time
@@ -131,25 +112,6 @@ MongoDB • Supabase • Git • AI APIs
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ranaammarahmad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_iam.not_ammar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <p><b>I build. I experiment. I ship.</b></p>
-</div>
-
-<p align="left">
-  <a href="mailto:ranaammarkhan39@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="www.linkedin.com/in/ranaammarahmad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_iam.not_ammar" target="_blank">
