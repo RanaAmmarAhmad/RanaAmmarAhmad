@@ -9,7 +9,7 @@ So I built something better.
 <p align="center">
 <b>Portfolio:</b> 
 <a href="http://ranaammarahmad.eu.cc/" target="_blank">
-✨ ammarkhanportfolio.netlify.app ✨
+✨ RanaAmmarAhmad.eu.cc ✨
 </a>
 </p>
 
