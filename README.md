@@ -1,4 +1,4 @@
-<h1 align="center">Ammar Ahmad</h1>
+<h1 align="center">Rana Ammar Ahmad Khan</h1>
 <h3 align="center">I build tools that solve real problems.</h3>
 
 <p align="center">
