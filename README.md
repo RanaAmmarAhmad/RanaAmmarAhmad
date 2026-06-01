@@ -1,68 +1,46 @@
-# Hi, I'm Rana Ammar Ahmad Khan
+<h1 align="center">Rana Ammar Ahmad Khan</h1>
+<p align="center"><strong>AI Product Builder • Full-Stack Developer • Practical Systems Thinker</strong></p>
 
-<p>
-I build AI products, full-stack apps, and internal tools that solve practical problems.
-Most of my work starts with friction: a workflow is too slow, a system is unclear, or a real user problem is being ignored. I like turning that into something usable, scalable, and product-shaped.
+<p align="center">
+I build products that fix friction.<br/>
+That usually means AI tools, internal systems, and full-stack apps shaped around real use cases instead of demo ideas.
 </p>
 
-<p>
-<a href="https://ranaammarahmad.eu.cc/">Portfolio</a> •
-<a href="https://github.com/RanaAmmarAhmad">GitHub</a> •
-<a href="https://www.linkedin.com/in/ranaammarahmad/">LinkedIn</a> •
-<a href="mailto:marikhan0320@gmail.com">Email</a>
+<p align="center">
+  <a href="https://ranaammarahmad.eu.cc/">Portfolio</a> •
+  <a href="https://github.com/RanaAmmarAhmad">GitHub</a> •
+  <a href="https://www.linkedin.com/in/ranaammarahmad/">LinkedIn</a> •
+  <a href="mailto:marikhan0320@gmail.com">Email</a>
 </p>
 
-## What I Do
+---
 
-- Build AI-assisted products with real workflows behind them
-- Ship full-stack web apps from UI to backend to deployment
-- Turn rough ideas into usable MVPs quickly
-- Focus on clean interfaces, practical architecture, and product usefulness
+## Builder Profile
 
-## Selected Projects
+- I build AI-assisted products with actual workflows behind them
+- I turn rough concepts into working MVPs fast
+- I prefer useful systems over clone projects and trend-chasing
+- I care about clarity, speed, and product structure from day one
 
-### Flowcodify
-AI-assisted product for turning prompts, wireframes, and flowcharts into code-oriented outputs.
+## Featured Work
 
-- Built around prompt-to-website and concept-to-code workflows
-- Designed to reduce friction between idea and implementation
-- Stack: MERN + Gemini
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Flowcodify** | Turns prompts, wireframes, and flowcharts into code-oriented outputs for faster product building. | MERN, Gemini |
+| **Pakistan Job Safety Platform** | Detects scam job listings using explainable risk flags and locally relevant fraud patterns. | JavaScript, Python, Flask, REST APIs |
+| **Docme** | Chrome extension that converts websites into structured academic-style documentation. | TypeScript |
+| **Previewshield** | Secure preview-focused SaaS concept for controlled digital delivery before payment. | TypeScript |
+| **WedArticle** | E-commerce platform with both storefront and admin-side management flows. | Full-stack, TypeScript |
+| **W3TAGENT** | Lightweight AI web tool focused on practical website workflows and usability. | JavaScript |
 
-### Pakistan Job Safety Platform
-Job scam detection platform built around patterns common in Pakistan’s hiring market.
+## What I Like Building
 
-- Uses confidence scoring and explainable risk flags
-- Combines frontend workflows, backend APIs, and Python-based analysis
-- Built for local relevance instead of generic fraud detection
+- AI products that do more than wrap an API
+- Automation-heavy systems that remove repetitive work
+- Full-stack web products with clean user flows
+- Trust-focused platforms around security, verification, and delivery
 
-### Docme
-Chrome extension that converts websites into structured academic-style documentation.
-
-- Crawls same-domain pages and extracts content automatically
-- Uses AI-assisted writing to transform raw site content into organized reports
-- Built with TypeScript
-
-### Previewshield
-Product concept for secure file preview and controlled delivery.
-
-- Focused on protecting digital work before payment
-- Structured as a SaaS-ready product foundation
-- Built with a scalable TypeScript-based approach
-
-### WedArticle
-E-commerce platform for handcrafted jewelry and wedding accessories.
-
-- Includes storefront and admin-side management flows
-- Covers products, categories, orders, and inquiries
-- Built as a business-ready full-stack system
-
-### W3TAGENT
-AI web tool centered on practical website-oriented workflows.
-
-- Built with a lightweight product-first approach
-- Focused on usability and clean interaction flow
-
-## Tech Stack
+## Stack
 
 **Frontend**  
 React, Next.js, JavaScript, TypeScript, HTML, CSS
@@ -70,32 +48,37 @@ React, Next.js, JavaScript, TypeScript, HTML, CSS
 **Backend**  
 Node.js, Express.js, Python, Flask, REST APIs
 
-**Database & Platforms**  
+**Database and Platforms**  
 Supabase, MongoDB, Netlify, Vercel, Render
 
-**Other**  
+**Other Tools**  
 Git, GitHub, Gemini API, C++
 
-## Current Focus
+## Current Direction
 
-- AI products that do more than wrap an API
-- Internal tools and automation-heavy systems
-- Secure delivery workflows and trust-focused products
-- Fast MVP execution with room to scale
+```text
+Building products where AI improves execution,
+not just the marketing.
+```
+
+- Smarter internal tools
+- Secure digital delivery systems
+- Faster MVP execution pipelines
+- Scalable product foundations
 
 ## Experience
 
 **Founder, Sovricsoft**  
-I lead product and client work across UI direction, full-stack development, delivery planning, and launch execution. That includes building web products, coordinating small-team execution, and turning vague ideas into shipped systems.
+Leading product and client work across UI direction, full-stack implementation, delivery planning, and launch execution. I work across concept shaping, development, iteration, and shipping.
 
-## Connect
+## Contact
 
 <p>
-<a href="mailto:marikhan0320@gmail.com">Email</a> |
-<a href="https://www.linkedin.com/in/ranaammarahmad/">LinkedIn</a> |
-<a href="https://ranaammarahmad.eu.cc/">Portfolio</a>
+  <a href="mailto:marikhan0320@gmail.com">Email</a><br/>
+  <a href="https://www.linkedin.com/in/ranaammarahmad/">LinkedIn</a><br/>
+  <a href="https://ranaammarahmad.eu.cc/">Portfolio</a>
 </p>
 
 ---
 
-<p><strong>I build practical systems. Then I keep improving them.</strong></p>
+<p align="center"><strong>I build practical systems, then keep improving them.</strong></p>
