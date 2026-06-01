@@ -1,130 +1,101 @@
-<h1 align="center">Rana Ammar Ahmad Khan</h1>
-<h3 align="center">I build tools that solve real problems.</h3>
+# Hi, I'm Rana Ammar Ahmad Khan
 
-<p align="center">
-Most of my projects start because something was broken, slow, unsafe, or annoying.<br/>
-So I built something better.
+<p>
+I build AI products, full-stack apps, and internal tools that solve practical problems.
+Most of my work starts with friction: a workflow is too slow, a system is unclear, or a real user problem is being ignored. I like turning that into something usable, scalable, and product-shaped.
 </p>
 
-<p align="center">
-<b>Portfolio:</b> 
-<a href="http://ranaammarahmad.eu.cc/" target="_blank">
-✨ RanaAmmarAhmad.eu.cc ✨
-</a>
+<p>
+<a href="https://ranaammarahmad.eu.cc/">Portfolio</a> •
+<a href="https://github.com/RanaAmmarAhmad">GitHub</a> •
+<a href="https://www.linkedin.com/in/ranaammarahmad/">LinkedIn</a> •
+<a href="mailto:marikhan0320@gmail.com">Email</a>
 </p>
 
-<br/>
+## What I Do
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+- Build AI-assisted products with real workflows behind them
+- Ship full-stack web apps from UI to backend to deployment
+- Turn rough ideas into usable MVPs quickly
+- Focus on clean interfaces, practical architecture, and product usefulness
 
-## ⚡ About Me
+## Selected Projects
 
-* I turn ideas into working products
-* I prefer solving real-world problems over cloning tutorials
-* I build fast, test fast, improve fast
-* I like systems that are simple, scalable, and actually useful
-* If something wastes time or creates risk, I usually try to fix it
+### Flowcodify
+AI-assisted product for turning prompts, wireframes, and flowcharts into code-oriented outputs.
 
-<br/>
+- Built around prompt-to-website and concept-to-code workflows
+- Designed to reduce friction between idea and implementation
+- Stack: MERN + Gemini
 
-## 🚀 What I've Built
+### Pakistan Job Safety Platform
+Job scam detection platform built around patterns common in Pakistan’s hiring market.
 
-### 🛡️ PreviewShield — Secure File Preview Platform
+- Uses confidence scoring and explainable risk flags
+- Combines frontend workflows, backend APIs, and Python-based analysis
+- Built for local relevance instead of generic fraud detection
 
-A platform designed for freelancers and creators who need to **share work without losing control of it**
+### Docme
+Chrome extension that converts websites into structured academic-style documentation.
 
-• Share files without downloads
-• Prevent asset theft before payment
-• Secure preview-based delivery workflow
-• Built for real creator-client scenarios
+- Crawls same-domain pages and extracts content automatically
+- Uses AI-assisted writing to transform raw site content into organized reports
+- Built with TypeScript
 
-<br/>
+### Previewshield
+Product concept for secure file preview and controlled delivery.
 
-### 🛡️ Job Scam Detection Platform (Pakistan)
+- Focused on protecting digital work before payment
+- Structured as a SaaS-ready product foundation
+- Built with a scalable TypeScript-based approach
 
-A practical system that detects fake job listings using patterns common in local scams
+### WedArticle
+E-commerce platform for handcrafted jewelry and wedding accessories.
 
-• Risk scoring system (0–100)
-• Detects WhatsApp-number traps & registration-fee scams
-• Understands Roman Urdu scam phrasing
-• Designed specifically for real Pakistan job-market risks
+- Includes storefront and admin-side management flows
+- Covers products, categories, orders, and inquiries
+- Built as a business-ready full-stack system
 
-<br/>
+### W3TAGENT
+AI web tool centered on practical website-oriented workflows.
 
-### 🤖 LastLapAI — AI Study Platform
+- Built with a lightweight product-first approach
+- Focused on usability and clean interaction flow
 
-Built for students preparing under pressure
+## Tech Stack
 
-• AI-assisted last-minute revision workflows
-• Smart test-prep structure
-• Designed for speed and clarity, not distraction
+**Frontend**  
+React, Next.js, JavaScript, TypeScript, HTML, CSS
 
-<br/>
+**Backend**  
+Node.js, Express.js, Python, Flask, REST APIs
 
-### 💸 NafaVest (In Progress)
+**Database & Platforms**  
+Supabase, MongoDB, Netlify, Vercel, Render
 
-Building infrastructure for a scalable crypto-based earning platform
+**Other**  
+Git, GitHub, Gemini API, C++
 
-• Backend-focused architecture
-• Automation-ready structure
-• Designed for real deployment scenarios
+## Current Focus
 
-<br/>
+- AI products that do more than wrap an API
+- Internal tools and automation-heavy systems
+- Secure delivery workflows and trust-focused products
+- Fast MVP execution with room to scale
 
-## 🧠 What I Like Building
+## Experience
 
-• Full-stack web platforms
-• AI-assisted tools that actually help users
-• Automation systems that remove repetitive work
-• Clean interfaces people understand immediately
-• MVPs that can grow into real products
+**Founder, Sovricsoft**  
+I lead product and client work across UI direction, full-stack development, delivery planning, and launch execution. That includes building web products, coordinating small-team execution, and turning vague ideas into shipped systems.
 
-<br/>
+## Connect
 
-## ⚙️ Tech Stack
-
-**Languages**
-Python • JavaScript • TypeScript • C++
-
-**Frontend**
-React • Next.js • HTML • CSS
-
-**Backend**
-Node.js • Express • REST APIs • Flask
-
-**Database & Tools**
-MongoDB • Supabase • Git • AI APIs
-
-<br/>
-
-## 🧪 Current Focus
-
-Right now I'm working on:
-
-• smarter AI tools (not wrappers)
-• secure digital delivery systems
-• automation-heavy workflows
-• shipping ideas faster as usable products
-
-<br/>
-
-## 🌐 Connect
-
-<p align="left">
-  <a href="mailto:ranaammarkhan39@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ranaammarahmad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_iam.not_ammar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<p>
+<a href="mailto:marikhan0320@gmail.com">Email</a> |
+<a href="https://www.linkedin.com/in/ranaammarahmad/">LinkedIn</a> |
+<a href="https://ranaammarahmad.eu.cc/">Portfolio</a>
 </p>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <p><b>I build. I test. I improve. I ship.</b></p>
-</div>
+<p><strong>I build practical systems. Then I keep improving them.</strong></p>
